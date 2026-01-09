@@ -13,3 +13,22 @@ implemented using C++.
 ## Purpose
 To build a strong foundation in C++ OOPS for interviews
 and real-world programming.
+## Explain core concept of object oriented programing (oop)
+(1)class & object
+(a) class:
+A class is a user-defined data type that groups data members and member functions into a single unit.
+Explanation :
+A class acts as a blueprint for creating objects.
+It does not occupy memory until an object is created.
+-syntax :
+class class_name{
+    //function
+};
+(b)Object:
+An object is an instance of a class that represents a real-world entity and occupies memory.
+Explanation :
+Objects are created using a class.
+They are used to access data members and member functions of the class.
+-syntax :
+ class_name object ;
+ 

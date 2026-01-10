@@ -29,7 +29,7 @@ It does not occupy memory until an object is created.
 - Explanation :
 - Objects are created using a class.
 They are used to access data members and member functions of the class.
--Syntax :
+- Syntax :
  class_name object ;
  ## Difference Between Class and Object 
    ## Class	                     ## Object
